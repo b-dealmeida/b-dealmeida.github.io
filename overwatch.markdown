@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "OVERWATCH"
+title: OVERWATCH
 permalink: /secret/ow/
 ---
 
