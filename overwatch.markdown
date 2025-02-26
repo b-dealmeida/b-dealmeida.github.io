@@ -4,6 +4,5 @@ title: OVERWATCH
 permalink: /secret/ow/
 ---
 
-Bro, why do I play this game!??????
+How'd you get here???
 
-Bottom text.
